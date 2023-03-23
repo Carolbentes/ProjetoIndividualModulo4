@@ -1,5 +1,6 @@
 # Projeto Individual Modulo4
 Banco de Dados
+
 ⇨ Existem outras entidades além dessas três? SIM, PROFESSOR.
 
 ⇨ Quais são os principais campos e tipos? CPF, MATRICULA, CODIGO E ID / Varchar e INT
